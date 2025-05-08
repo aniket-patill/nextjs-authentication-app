@@ -1,5 +1,4 @@
 import {getDataFromToken} from "@/helpers/getDatafromToken";
-
 import { NextRequest, NextResponse } from "next/server";
 import { connectDB } from "@/dbConfig/dbConfig";
 import  User  from "@/models/userModel";

@@ -4,7 +4,6 @@ import Link from "next/link";
 import React,{ use, useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import toast, { Toaster } from "react-hot-toast";
-import { set } from "mongoose";
 
 
 export default function VerifyEmailPage() {
