@@ -21,7 +21,4 @@ export async function GET() {
         )
             
     }
-
-
-
 }
